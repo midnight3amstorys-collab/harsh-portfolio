@@ -1,0 +1,12 @@
+REPLACE THIS FILE
+
+Replace this placeholder with your actual CV PDF file.
+File must be named exactly: Harsh_Kumar_Tulsyan_CV.pdf
+
+Steps:
+1. Export your CV as PDF from Word, Google Docs, or any PDF tool
+2. Name it: Harsh_Kumar_Tulsyan_CV.pdf
+3. Drop it in this /public/ folder (replacing this placeholder)
+4. Redeploy to Vercel
+
+The "Download CV" button in the website links to: /Harsh_Kumar_Tulsyan_CV.pdf
